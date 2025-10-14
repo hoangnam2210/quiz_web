@@ -82964,7 +82964,7 @@ s=1
 break}a2=t.N
 m=A.u(a2,t.o3)
 l=A.u(a2,a2)
-for(k=5,a2=t.Le;k<n.d;++k){j=n.anx(k)
+for(k=0,a2=t.Le;k<n.d;++k){j=n.anx(k)
 i=new A.a2x(j)
 h=i.$1(0)
 g=i.$1(1)
